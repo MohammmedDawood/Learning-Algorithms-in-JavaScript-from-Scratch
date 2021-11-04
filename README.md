@@ -4,4 +4,4 @@ Using algorithms in your programming allows you to improve the efficiency, perfo
 
 ## Learn More
 
-You can View the resources and Videos[Learning Algorithms in JavaScript from Scratch](https://www.packtpub.com/product/learning-algorithms-in-javascript-from-scratch-video/9781800208124).
+You can View the resources and Videos [Learning Algorithms in JavaScript from Scratch](https://www.packtpub.com/product/learning-algorithms-in-javascript-from-scratch-video/9781800208124).
