@@ -17,4 +17,8 @@ function fibonacci(position) {
   }
 }
 
-console.log(fibonacci(50));
+console.log(
+  fibonacci(20), //6765
+  fibonacci(40) //102334155
+  // fibonacci(100) //102334155
+);
